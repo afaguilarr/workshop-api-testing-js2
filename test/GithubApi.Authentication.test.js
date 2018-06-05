@@ -1,4 +1,4 @@
-// 'd0d5765f05f1a535e0f12d55c6a4e44a11833189'
+/* // 'd0d5765f05f1a535e0f12d55c6a4e44a11833189'
 const agent = require('superagent-promise')(require('superagent'), Promise);
 const statusCode = require('http-status-codes');
 const { expect } = require('chai');
@@ -27,4 +27,4 @@ describe('Github Api Test', () => {
           expect(response.body.description).equal('This is a Workshop about Api Testing in JavaScript');
         }));
   });
-});
+}); */
